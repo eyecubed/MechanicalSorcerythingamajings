@@ -32,7 +32,7 @@ recipes.addShaped("Elite Plating",
     [duplate,<nuclearcraft:compound:1>,duplate]]);
 # shitting shit that uses shitting plates
 recipes.addShaped("Empty Cooler",
-    <nuclearcraft:cooler> * 2,
+    <nuclearcraft:cooler> * 8,
     [[toughalloy,basicplate,toughalloy],
     [basicplate,<ore:blockGlass>,basicplate],
     [toughalloy,basicplate,toughalloy]]);
