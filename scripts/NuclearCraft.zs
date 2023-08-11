@@ -16,7 +16,7 @@ val duplate = <nuclearcraft:part:2>;
 val eliteplate = <nuclearcraft:part:3>;
 # shitting plates
 recipes.addShaped("Basic Plating",
-    <nuclearcraft:part> * 2,
+    <nuclearcraft:part> * 4,
     [[<ore:ingotLead>,<nuclearcraft:dust:8>,<ore:ingotLead>],
     [<nuclearcraft:dust:8>,<ore:blockLead>,<nuclearcraft:dust:8>],
     [<ore:ingotLead>,<nuclearcraft:dust:8>,<ore:ingotLead>]]);
